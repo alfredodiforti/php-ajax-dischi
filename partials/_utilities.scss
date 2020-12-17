@@ -1,0 +1,15 @@
+.container {
+    max-width: 1170px;
+    margin: auto;
+}
+
+// flex
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.flexgrow {
+    display: flex;
+    flex-grow: 1;
+}
