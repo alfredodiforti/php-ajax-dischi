@@ -55,7 +55,8 @@
     <title>Document</title>
 </head>
 <body>
- <header>
+<div id="app">
+<header>
      <div class="container">
          <img src="../php-ajax-dischi/dist/img/logo.png" alt="logo">
      </div>
@@ -71,11 +72,9 @@
                <span><?php echo $details['year']?></span>
                <span><?php echo $details['genre']?></span>              
            </div>
-
           <?php } ?>
-
      </div>
-
  </main>
+</div>
 </body>
 </html>

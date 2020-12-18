@@ -23,7 +23,6 @@
 header {
   background: #172430;
 }
-
 header img {
   width: 35px;
 }
@@ -31,7 +30,6 @@ header img {
 main {
   background: #1d2d3c;
 }
-
 main .blackbox {
   background: black;
   width: 30%;
@@ -43,14 +41,10 @@ main .blackbox {
   margin-bottom: 50px;
   padding: 40px;
 }
-
 main .blackbox img {
   width: 100%;
   margin-bottom: 20px;
 }
-
-main .blackbox h3,
-main .blackbox span {
+main .blackbox h3, main .blackbox span {
   color: white;
 }
-
